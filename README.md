@@ -1,5 +1,5 @@
 # firstperson
-This is the initial home for the First Person Project. A full Readme is under construction.
+This is the initial GitHub home for the First Person Project. A full Readme is under construction.
 
 [Here is the initial Ayra white paper proposing First Person Credentials.](https://ayra.forum/ayra-network-effects-whitepaper/)
 
